@@ -3,5 +3,5 @@ obj/
 .vs/
 .idea/
 *.user
-emplog.db
-emplog.db-*
+#emplog.db
+#emplog.db-*
