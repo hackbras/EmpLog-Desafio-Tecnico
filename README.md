@@ -75,4 +75,4 @@ CPF ou CNH já cadastrados, `409`:
   "detail": "Já existe um motorista com este CPF."
 }
 ```
-# EmpLog-Desafio-T-cnico
+# EmpLog-Desafio-Tecnico
